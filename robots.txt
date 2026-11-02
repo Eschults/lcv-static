@@ -1,0 +1,7 @@
+# Documentation
+# http://www.robotstxt.org/robotstxt.html
+# https://moz.com/learn/seo/robotstxt
+#
+User-agent: *
+Disallow: /mentions-legales
+Sitemap: https://www.lescouronnesdevictoire.com/sitemap.xml.gz
